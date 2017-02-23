@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{7BEADBA2-0534-4358-940E-56E50E3920CF}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TopGolf/Tests.cs">
+    <Files>
+      <File FileName="TopGolf/AppInitializer.cs" Line="31" Column="18" />
+      <File FileName="TopGolf/Tests.cs" Line="54" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TopGolf" expanded="True">
+            <Node name="TopGolf" expanded="True">
+              <Node name="TopGolf" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="FirstTest" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TopGolf PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
